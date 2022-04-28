@@ -1,0 +1,6 @@
+ListBaseQueueMain.o: ListBaseQueueMain.c /usr/include/stdc-predef.h \
+ ListBaseQueue.h
+
+/usr/include/stdc-predef.h:
+
+ListBaseQueue.h:
